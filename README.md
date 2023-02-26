@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vgsuarez
-- 👀 Estoy interesado en desarrollo de aplicaciones de Recursos Humanos.
+- 👀 Analista de Recursos Humanos
 - <!---
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
