@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vgsuarez
-- 👀 Analista de Recursos Humanos
+- 👀 Jefe de Recursos Humanos
 - <!---
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
